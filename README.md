@@ -7,4 +7,3 @@ chmod +x install_vscode.sh
 ./install_vscode.sh
 ```
 
-Let me know if you need any modifications! 🚀
